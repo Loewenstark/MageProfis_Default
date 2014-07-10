@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageProfis_Default>
+            <version>1.0.0.0</version>
+        </MageProfis_Default>
+    </modules>
+    <global>
+        <models>
+            <mageprofisdefault>
+                <class>MageProfis_Default_Model</class>
+            </mageprofisdefault>
+        </models>
+        <blocks>
+            <mageprofisdefault>
+                <class>MageProfis_Default_Block</class>
+            </mageprofisdefault>
+        </blocks>
+        <helpers>
+            <mageprofisdefault>
+                <class>MageProfis_Default_Helper</class>
+            </mageprofisdefault>
+        </helpers>
+    </global>
+</config>

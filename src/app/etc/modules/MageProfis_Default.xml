@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageProfis_Default>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Catalog />
+                <FireGento_MageSetup />
+            </depends>
+        </MageProfis_Default>
+    </modules>
+</config>
